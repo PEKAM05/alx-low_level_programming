@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <main.h>
 /**
  *main - Entry point
@@ -6,7 +5,7 @@
  *Return: Always 0 (Success)
  */
 
-extern void main(void);
+int main(void);
 
 {
 putchar('_');
